@@ -5,6 +5,8 @@ et d’obtenir des réponses en français avec les sources et les pages.
 
 ## Fonctionnalités
 
+- Agent IA capable de rechercher des passages dans les PDF avant de répondre.
+- Affichage des recherches effectuées par l’agent.
 - Extraction et nettoyage du texte des PDF.
 - Découpage du texte en passages.
 - Recherche sémantique avec des embeddings.
